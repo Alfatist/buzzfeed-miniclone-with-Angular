@@ -1,0 +1,63 @@
+{
+  "title": "Qual celular você seria?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual a sua altura?",
+      "options": [
+        { "id": 1, "name": "< 1.70", "alias": "A" },
+        { "id": 2, "name": "de 1.71 a 1.80", "alias": "B" },
+        { "id": 3, "name": "> 1.80", "alias": "C" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual a sua maior preocupação ao comprar um celular?",
+      "options": [
+        { "id": 1, "name": "Durabilidade", "alias": "C" },
+        { "id": 2, "name": "Performance", "alias": "C" },
+        { "id": 3, "name": "Experiência", "alias": "A" },
+        { "id": 4, "name": "Preço", "alias": "B" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual sua cor favorita?",
+      "options": [
+        { "id": 1, "name": "Branco", "alias": "A" },
+        { "id": 2, "name": "Preto", "alias": "C" },
+        { "id": 3, "name": "Azul", "alias": "B" },
+        { "id": 4, "name": "Rosa", "alias": "A" },
+        { "id": 5, "name": "Verde", "alias": "B" },
+        { "id": 6, "name": "Amarelo", "alias": "C" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Em qual região do Brasil você mora?",
+      "options": [
+        { "id": 1, "name": "Sudeste", "alias": "A" },
+        { "id": 2, "name": "Norte", "alias": "B" },
+        { "id": 1, "name": "Nordeste", "alias": "B" },
+        { "id": 2, "name": "Centro-oeste", "alias": "B" },
+        { "id": 1, "name": "Sul", "alias": "C" },
+        { "id": 1, "name": "Não moro no Brasil", "alias": "A" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual destes componentes você prioriza?",
+      "options": [
+        { "id": 1, "name": "Memória (armazenamento)", "alias": "A" },
+        { "id": 2, "name": "câmera", "alias": "B" },
+        { "id": 1, "name": "Bateria", "alias": "C" },
+        { "id": 1, "name": "Tela", "alias": "A" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Eca, você é simpatizante do iPhone. O importante é a EXPERIÊNCIA",
+    "B": "Parabéns, você é igual quase todo mundo. Ou seja, Samsung!",
+    "C": "Você seria um motorola. Resta saber se antes ou depois da Lenovo."
+  }
+}
