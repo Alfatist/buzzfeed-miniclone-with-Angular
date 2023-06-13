@@ -7,4 +7,4 @@ It's not a very elaborate page because it's a case study, but it's a 100/100 pag
 
 ---
 
-<h1><a href="">Check this site on your device</h1>
+<h1><a href="https://alfatist.github.io/buzzfeed-miniclone-with-Angular/">Check this site on your device</h1>
